@@ -1,6 +1,6 @@
 {
-    "name": "tableregistration",
-    "short_name": "tableregistration",
+    "name": "etlite",
+    "short_name": "etlite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
